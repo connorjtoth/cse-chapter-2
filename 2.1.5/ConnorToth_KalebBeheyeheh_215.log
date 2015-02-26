@@ -1,0 +1,71 @@
+# IPython log file
+
+for 3 in range(1,26)
+for shift in range(1,26)
+for shift in range(1,26):
+    print rotate("Wub wklv!", shift)
+%run "C:/Users/c.toth/AppData/Local/Temp/Temp1_2.1.5.PY StudentSourceFiles.zip/ciphers.py"
+for shift in 1,26):
+    print rotate("Wub wklv!", shift)
+print rotate("Wub wklv!", 3)
+print rotate("Wub wklv!", -3)
+for shift in range(26):
+    print rotate("Jvgure jrag gerzraqbhf qvabfnhef! Guvaxvat gurer fubhyq rkvfg nggrzcgrq uvynevgl urer?", shift)
+for shift in range(26):
+    print rotate("Jvgure jrag gerzraqbhf qvabfnhef! Guvaxvat gurer fubhyq rkvfg nggrzcgrq uvynevgl urer?", shift * -1)
+try_all_25("Jvgure jrag gerzraqbhf qvabfnhef! Guvaxvat gurer fubhyq rkvfg nggrzcgrq uvynevgl urer?")
+%run "H:/CSE/2.1/2.1.5/2.1.5.PY StudentSourceFiles/ciphers.py"
+%run "H:/CSE/2.1/2.1.5/2.1.5.PY StudentSourceFiles/ciphers.py"
+%run "H:/CSE/2.1/2.1.5/2.1.5.PY StudentSourceFiles/ciphers.py"
+try_all_25("Jvgure jrag gerzraqbhf qvabfnhef! Guvaxvat gurer fubhyq rkvfg nggrzcgrq uvynevgl urer?")
+%cd "H:\CSE\2.1\2.1.5"
+# Wed, 25 Feb 2015 13:55:27
+%run "H:/CSE/2.1/2.1.5/2.1.5.PY StudentSourceFiles/ciphers.py"# Wed, 25 Feb 2015 13:55:40
+try_all_25("Jvgure jrag gerzraqbhf qvabfnhef! Guvaxvat gurer fubhyq rkvfg nggrzcgrq uvynevgl urer?")
+# Wed, 25 Feb 2015 13:56:07
+rotate("Jvgure jrag gerzraqbhf qvabfnhef! Guvaxvat gurer fubhyq rkvfg nggrzcgrq uvynevgl urer?", 1)
+#[Out]# 'Kwhvsf ksbh hfsasbrcig rwbcgoifg! Hvwbywbu hvsfs gvcizr slwgh ohhsadhsr vwzofwhm vsfs?'
+# Wed, 25 Feb 2015 13:56:11
+rotate("Jvgure jrag gerzraqbhf qvabfnhef! Guvaxvat gurer fubhyq rkvfg nggrzcgrq uvynevgl urer?", 2)
+#[Out]# 'Lxiwtg ltci igtbtcsdjh sxcdhpjgh! Iwxczxcv iwtgt hwdjas tmxhi piitbeits wxapgxin wtgt?'
+# Wed, 25 Feb 2015 13:56:16
+rotate("Jvgure jrag gerzraqbhf qvabfnhef! Guvaxvat gurer fubhyq rkvfg nggrzcgrq uvynevgl urer?", 3)
+#[Out]# 'Myjxuh mudj jhucudteki tydeiqkhi! Jxydaydw jxuhu ixekbt unyij qjjucfjut xybqhyjo xuhu?'
+# Wed, 25 Feb 2015 13:56:23
+rotate("Jvgure jrag gerzraqbhf qvabfnhef! Guvaxvat gurer fubhyq rkvfg nggrzcgrq uvynevgl urer?", 4)
+#[Out]# 'Nzkyvi nvek kivdveuflj uzefjrlij! Kyzebzex kyviv jyflcu vozjk rkkvdgkvu yzcrizkp yviv?'
+# Wed, 25 Feb 2015 13:56:26
+rotate("Jvgure jrag gerzraqbhf qvabfnhef! Guvaxvat gurer fubhyq rkvfg nggrzcgrq uvynevgl urer?", 5)
+#[Out]# 'Oalzwj owfl ljwewfvgmk vafgksmjk! Lzafcafy lzwjw kzgmdv wpakl sllwehlwv zadsjalq zwjw?'
+# Wed, 25 Feb 2015 13:56:29
+rotate("Jvgure jrag gerzraqbhf qvabfnhef! Guvaxvat gurer fubhyq rkvfg nggrzcgrq uvynevgl urer?", 6)
+#[Out]# 'Pbmaxk pxgm mkxfxgwhnl wbghltnkl! Mabgdbgz maxkx lahnew xqblm tmmxfimxw abetkbmr axkx?'
+# Wed, 25 Feb 2015 13:56:33
+rotate("Jvgure jrag gerzraqbhf qvabfnhef! Guvaxvat gurer fubhyq rkvfg nggrzcgrq uvynevgl urer?", 7)
+#[Out]# 'Qcnbyl qyhn nlygyhxiom xchimuolm! Nbchecha nbyly mbiofx yrcmn unnygjnyx bcfulcns byly?'
+# Wed, 25 Feb 2015 13:56:36
+rotate("Jvgure jrag gerzraqbhf qvabfnhef! Guvaxvat gurer fubhyq rkvfg nggrzcgrq uvynevgl urer?", 8)
+#[Out]# 'Rdoczm rzio omzhziyjpn ydijnvpmn! Ocdifdib oczmz ncjpgy zsdno voozhkozy cdgvmdot czmz?'
+# Wed, 25 Feb 2015 13:56:40
+rotate("Jvgure jrag gerzraqbhf qvabfnhef! Guvaxvat gurer fubhyq rkvfg nggrzcgrq uvynevgl urer?", 9)
+#[Out]# 'Sepdan sajp pnaiajzkqo zejkowqno! Pdejgejc pdana odkqhz ateop wppailpaz dehwnepu dana?'
+# Wed, 25 Feb 2015 13:56:44
+rotate("Jvgure jrag gerzraqbhf qvabfnhef! Guvaxvat gurer fubhyq rkvfg nggrzcgrq uvynevgl urer?", 10)
+#[Out]# 'Tfqebo tbkq qobjbkalrp afklpxrop! Qefkhfkd qebob pelria bufpq xqqbjmqba efixofqv ebob?'
+# Wed, 25 Feb 2015 13:56:48
+rotate("Jvgure jrag gerzraqbhf qvabfnhef! Guvaxvat gurer fubhyq rkvfg nggrzcgrq uvynevgl urer?", 11)
+#[Out]# 'Ugrfcp uclr rpckclbmsq bglmqyspq! Rfgligle rfcpc qfmsjb cvgqr yrrcknrcb fgjypgrw fcpc?'
+# Wed, 25 Feb 2015 13:56:53
+rotate("Jvgure jrag gerzraqbhf qvabfnhef! Guvaxvat gurer fubhyq rkvfg nggrzcgrq uvynevgl urer?", 12)
+#[Out]# 'Vhsgdq vdms sqdldmcntr chmnrztqr! Sghmjhmf sgdqd rgntkc dwhrs zssdlosdc ghkzqhsx gdqd?'
+# Wed, 25 Feb 2015 13:56:56
+rotate("Jvgure jrag gerzraqbhf qvabfnhef! Guvaxvat gurer fubhyq rkvfg nggrzcgrq uvynevgl urer?", 13)
+#[Out]# 'Wither went tremendous dinosaurs! Thinking there should exist attempted hilarity here?'
+# Wed, 25 Feb 2015 13:56:59
+rotate("Jvgure jrag gerzraqbhf qvabfnhef! Guvaxvat gurer fubhyq rkvfg nggrzcgrq uvynevgl urer?", 14)
+#[Out]# 'Xjuifs xfou usfnfoepvt ejoptbvst! Uijoljoh uifsf tipvme fyjtu buufnqufe ijmbsjuz ifsf?'
+# Wed, 25 Feb 2015 13:57:01
+rotate("Jvgure jrag gerzraqbhf qvabfnhef! Guvaxvat gurer fubhyq rkvfg nggrzcgrq uvynevgl urer?", 13)
+#[Out]# 'Wither went tremendous dinosaurs! Thinking there should exist attempted hilarity here?'
+# Wed, 25 Feb 2015 13:57:10
+%logstop
